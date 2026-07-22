@@ -1,11 +1,12 @@
 [
   {
-    "Author": "kcbak",
+    "Author": "Sydsquish",
     "Name": "Wondrous Places",
     "InternalName": "WondrousPlaces",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.0.1",
     "Punchline": "Ambient beginnings for shared roleplay stories.",
     "Description": "Wondrous Places brings venue-focused roleplay prompts and interactions into an in-game Dalamud window. The Covenstead is its first venue module.",
+    "IconUrl": "https://raw.githubusercontent.com/Sydsquicious/wondrous-places-beta/main/icon.png",
     "RepoUrl": "https://github.com/Sydsquicious/wondrous-places-beta",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -17,8 +18,8 @@
     ],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Sydsquicious/wondrous-places-beta/main/WondrousPlaces-0.1.0.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Sydsquicious/wondrous-places-beta/main/WondrousPlaces-0.1.0.0.zip",
-    "LastUpdate": 1784738990
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Sydsquicious/wondrous-places-beta/main/WondrousPlaces-0.1.0.1.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Sydsquicious/wondrous-places-beta/main/WondrousPlaces-0.1.0.1.zip",
+    "LastUpdate": 1784743200
   }
 ]
